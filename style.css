@@ -5,4 +5,8 @@ body {
 
 header {
     background-color: darkorange;
+    text-align: center;
+    font-size: 32px;
+    padding: 10px;
+    border-bottom: solid 2px black;
 }
