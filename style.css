@@ -10,3 +10,11 @@ header {
     padding: 10px;
     border-bottom: solid 2px black;
 }
+
+.primeirovideo{
+    background-color: qorange;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
